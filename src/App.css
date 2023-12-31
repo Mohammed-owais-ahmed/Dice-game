@@ -1,0 +1,27 @@
+.dice-game{
+  font-size: 80px;
+  font-weight: 900;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  margin-top: 200px;
+  flex-wrap: wrap;
+}
+img{
+  margin-top: 100px;
+}
+.text-size{
+  font-size: 20px;
+}
+.text-red{
+  color: red;
+  
+}
+.bg-color{
+  background-color: lightpink;
+}
+.score-size{
+  font-size: 100px;
+}
